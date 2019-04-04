@@ -1,0 +1,16 @@
+html,
+body {
+  overflow-x: hidden;
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto Slab', 'sans-serif';
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #111111;
+}
