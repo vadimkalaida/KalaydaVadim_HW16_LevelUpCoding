@@ -43,13 +43,24 @@ main {
 }
 
 .login__form-input {
-  background: #D0D8E0;
+  background: url('img/uesr-input.png');
   border: none;
-  width: 325px;
+  width: 374px;
   height: 45px;
   color: #A0A3AB;
   font-size: 18px;
-  padding-left: 10px;
+  padding-left: 50px;
+  margin-bottom: 25px;
+}
+
+.login__form-input2 {
+  background: url('img/password-input.png');
+  border: none;
+  width: 374px;
+  height: 45px;
+  color: #A0A3AB;
+  font-size: 18px;
+  padding-left: 50px;
   margin-bottom: 25px;
 }
 
